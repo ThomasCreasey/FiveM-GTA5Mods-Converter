@@ -1,0 +1,22 @@
+{
+  "name": "fivem-gta5mods-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "better-queue": "^3.8.12",
+    "cross-unzip": "^0.2.1",
+    "glob": "^8.0.3",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^15.3.2",
+    "undici": "^5.10.0",
+    "win-7zip": "^0.1.1"
+  }
+}
