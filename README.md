@@ -1,6 +1,3 @@
-## Need Hosting Services?
-Check out [Scorch Hosting](https://scorch.host). Ensuring your services are fast, secure & online when you need them most, committed to bringing you affordable hosting, with excellent performance and reliability. 
-
 # FiveM-GTA5Mods-Converter
 The GTA5-Mods to FiveM converter is now available as a beta tool. This tool will allow you to enter a link to a vehicle from GTA5-Mods alongside a spawncode and it will output a FiveM ready resource, able to be extracted directly into your server.
 
